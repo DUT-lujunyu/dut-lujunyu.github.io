@@ -43,8 +43,8 @@ Education
 
 Research Intern
 ======
-- 2025.5 - Now, [Tencent](https://www.tencent.com/), Beijing, China. Supervisor: [Deyi Ji](https://scholar.google.com/citations?hl=zh-CN&user=r9-7am4AAAAJ)
-- 2022.7 - 2022.12, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China. Supervisor: [Xue Han](https://scholar.google.com/citations?hl=zh-CN&user=Rg4xqCgAAAAJ)
+- 2025.5 - Now, [Tencent](https://www.tencent.com/), Beijing, China. Supervisor: Dr. [Deyi Ji](https://scholar.google.com/citations?hl=zh-CN&user=r9-7am4AAAAJ)
+- 2022.7 - 2022.12, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China. Supervisor: Dr. [Xue Han](https://scholar.google.com/citations?hl=zh-CN&user=Rg4xqCgAAAAJ)
 
 Technical Evaluation 
 ======

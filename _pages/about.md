@@ -17,26 +17,34 @@ Research Interests
   
 Main Publications
 ======
+- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Haohao Zhu, Kaichun Wang, Liang Yang, Hongfei Lin. _Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection._ **SIGIR 2025**.
+- **Junyu Lu**, Kai Ma, Kaichun Wang, Kelaiti Xiao, Roy Ka-Wei Lee, Bo Xu, Liang Yang, Hongfei Lin. _Is LLM an Overconfident Judge? Unveiling the Capabilities of LLMs in Detecting Offensive Language with Annotation Disagreement._ **ACL 2025 findings**. [[paper](https://arxiv.org/abs/2502.06207)] [[code](https://github.com/DUT-lujunyu/Disagreement)]
 - **Junyu Lu**, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin. _Towards Comprehensive Detection of Chinese Harmful Memes._ **NeurIPS 2024**. [[paper](https://arxiv.org/abs/2410.02378)] [[code](https://github.com/DUT-lujunyu/ToxiCN_MM)]
-- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang*, Hongfei Lin. _Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks._ **ACL 2023**. [[paper](https://aclanthology.org/2023.acl-long.898.pdf)] [[code](https://github.com/DUT-lujunyu/ToxiCN)]
-- **Junyu Lu**, Hongfei Lin, Xiaokun Zhang, Zhaoqing Li, Tongyue Zhang, Linlin Zong, Fenglong Ma, Bo Xu*. _Hate Speech Detection via Dual Contrastive Learning._ **TASLP 2023**. [[paper](https://ieeexplore.ieee.org/abstract/document/10180106)]
-- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang, Hongfei Lin*. _Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect._ **LREC-COLING 2024**. [[paper](https://aclanthology.org/2024.lrec-main.1353/)] [[code](https://github.com/DUT-lujunyu/Debias)]
-- **Junyu Lu**, Hao Zhang, Zhexu Shen, Kaiyuan Shi, Liang Yang, Bo Xu, Shaowu Zhang, Hongfei Lin*. _Multi-task Hierarchical Cross-Attention Network for Multi-label Text Classification._ **NLPCC 2022**. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)] [[code](https://github.com/DUT-lujunyu/MHCAN)] 
+- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang, Hongfei Lin. _Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect._ **COLING 2024**. [[paper](https://aclanthology.org/2024.lrec-main.1353/)] [[code](https://github.com/DUT-lujunyu/Debias)]
+- **Junyu Lu**, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang, Hongfei Lin. _Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks._ **ACL 2023**. [[paper](https://aclanthology.org/2023.acl-long.898.pdf)] [[code](https://github.com/DUT-lujunyu/ToxiCN)]
+- **Junyu Lu**, Hongfei Lin, Xiaokun Zhang, Zhaoqing Li, Tongyue Zhang, Linlin Zong, Fenglong Ma, Bo Xu. _Hate Speech Detection via Dual Contrastive Learning._ **TASLP 2023**. [[paper](https://ieeexplore.ieee.org/abstract/document/10180106)]
+- **Junyu Lu**, Hao Zhang, Zhexu Shen, Kaiyuan Shi, Liang Yang, Bo Xu, Shaowu Zhang, Hongfei Lin. _Multi-task Hierarchical Cross-Attention Network for Multi-label Text Classification._ **NLPCC 2022**. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)] [[code](https://github.com/DUT-lujunyu/MHCAN)] 
 
 Other Publications
-======
-- Hongbo Wang, Mingda Li, **Junyu Lu**, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin*. _PclGPT: A Large Language Model for Patronizing and Condescending Language Detection._ **EMNLP 2024**. [[paper]( https://arxiv.org/abs/2410.00361)] [[code](https://github.com/dut-laowang/emnlp24-PclGPT)]
-- Hongbo Wang, **Junyu Lu**, Yan Han, Kai Ma, Liang Yang, Hongfei Lin*. _Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector._ **ICASSP 2025**. [[paper](https://arxiv.org/abs/2409.05005)] [[code](https://github.com/dut-laowang/PCLMM)]
-- Haohao Zhu, Xiaokun Zhang, Zeyuan Zeng, **Junyu Lu**, Zewen Bai, Liang Yang, Hongfei Lin. _Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition._ **NAACL 2025**.
-- Weiru Fu, **Junyu Lu**, Youlin Wu, Guangtao Xu, Liang Yang, Hongfei Lin*, Jian Wang. _CFAH: A Chinese Dataset for Detecting False Advertising in Healthcare._ **BIBM 2024**. [[paper](https://ieeexplore.ieee.org/abstract/document/10822100/)] [[code](https://github.com/FuWeiru/CFAH)] 
+====== 
+- Zewen Bai, Shengdi Yin, **Junyu Lu**, Jingjie Zeng, Haohao Zhu, Yuanyuan Sun, Liang Yang, Hongfei Lin. _STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection_. **ACL 2025 findings**. [[paper](https://arxiv.org/html/2501.15451v2)] [[code](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)]
+- Haohao Zhu, **Junyu Lu**, Xiaokun Zhang, Zeyuan Zeng, Zewen Bai, Liang Yang, Hongfei Lin. _Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition._ **NAACL 2025**. [[paper](https://aclanthology.org/2025.naacl-long.385/)]
+- Hongbo Wang, **Junyu Lu**, Yan Han, Kai Ma, Liang Yang, Hongfei Lin. _Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector._ **ICASSP 2025**. [[paper](https://arxiv.org/abs/2409.05005)] [[code](https://github.com/dut-laowang/PCLMM)]
+- Hongbo Wang, Mingda Li, **Junyu Lu**, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin. _PclGPT: A Large Language Model for Patronizing and Condescending Language Detection._ **EMNLP 2024 findings**. [[paper]( https://arxiv.org/abs/2410.00361)] [[code](https://github.com/dut-laowang/emnlp24-PclGPT)]
+- Weiru Fu, **Junyu Lu**, Youlin Wu, Guangtao Xu, Liang Yang, Hongfei Lin, Jian Wang. _CFAH: A Chinese Dataset for Detecting False Advertising in Healthcare._ **BIBM 2024**. [[paper](https://ieeexplore.ieee.org/abstract/document/10822100/)] [[code](https://github.com/FuWeiru/CFAH)] 
 
-**Note**: * indicates the corresponding author. The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=mMaIn0QAAAAJ&hl=zh-CN).
+**Note**: The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=mMaIn0QAAAAJ&hl=zh-CN).
 
 Education
 ======
 - 2023.9 - now, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 - 2021.9 - 2023.6, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 - 2017.9 - 2021.6, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+
+Research Intern
+======
+- 2025.5 - Now, [Tencent](https://www.tencent.com/), Beijing, China. Supervisor: [Deyi Ji](https://scholar.google.com/citations?hl=zh-CN&user=r9-7am4AAAAJ)
+- 2022.7 - 2022.12, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China. Supervisor: [Xue Han](https://scholar.google.com/citations?hl=zh-CN&user=Rg4xqCgAAAAJ)
 
 Technical Evaluation 
 ======
@@ -45,22 +53,26 @@ Technical Evaluation
 - 2022.5, NLPCC2022 Task5 Track1: Multi-label Classification Model for English Scientific Literature, _China Computer Federation_, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
 - 2020.9, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
 
-Experience
-======
-- 2022.7 - 2022.12, Research Intern, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China.
-
 Project
 ======
-- 2022.8, **Hate Speech Dataset Catalogue**, Contributor. [[repo](https://github.com/leondz/hatespeechdata)]
 - 2024.5, **Campus Intelligence System based on LLM**, Key Participants.
+- 2022.8, **Hate Speech Dataset Catalogue**, Contributor. [[repo](https://github.com/leondz/hatespeechdata)]
 
 Talk
 ======
 - 2024.11, **NeurIPS2024 Pre-Presentation Meeting**. AI Time. [[news](https://mp.weixin.qq.com/s/pI64JxiMY_B1gQYp9h2jPw)][[video](https://www.bilibili.com/video/BV19hUUYdE2k)]
 - 2024.11, **Academic Forum for Doctoral Students in 2024**. School of Computer Science and Technology, Dalian University of Technology. [[news](https://mp.weixin.qq.com/s/b_Pa7PUG_dxToUaF3EbgAQ)]
 
+Academic Service
+======
+- 2024.12 - Now, Student Committee Member of Youth Working Committee of Chinese Information Processing Society. 
+- 2025.2, Organizer of CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation. The task attracted over 390 participating teams. 
+- Conference PC Member: ACL ARR (2023 - Now), COLING 2024, BIBM 2024, ICASSP 2025, NeurIPS 2025
+- Journal Reviewer: TASLP, TALLIP
+
 Awards
 ======
+- **Tencent Rhino-Bird Elite Talent Program**. Tencent. 2025.
 - **National Scholarship**. The Ministry of Education of the People's Republic of China. 2023.
 - **Huawei Scholarship**. Huawei Technologies Co., Ltd. & Dalian University of Technology. 2022.
 - **Xianglian Scholarship**. Dalian University of Technology. 2024.

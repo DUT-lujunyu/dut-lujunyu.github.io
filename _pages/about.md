@@ -66,7 +66,7 @@ Talk
 Academic Service
 ======
 - 2024.12 - Now, Student Committee Member of Youth Working Committee of Chinese Information Processing Society. 
-- 2025.2, Organizer of CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation. The task attracted over 390 participating teams. 
+- 2025.2, Organizer of CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation. **390+** teams registered.
 - Conference PC Member: ACL ARR (2023 - Now), COLING 2024, BIBM 2024, ICASSP 2025, NeurIPS 2025
 - Journal Reviewer: TASLP, TALLIP
 

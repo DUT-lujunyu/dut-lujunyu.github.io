@@ -21,6 +21,7 @@ Welcome! I'm a second-year Ph.D. student supervised by [Prof. Hongfei Lin](https
 My research interests lie in natural language processing, text mining, and AI security. 
 Currently, I focus on detecting hate speech and hateful memes prevalent on social platforms by developing novel deep learning methods, specifically large language models, for semantic analysis.
 
+If you are interested in my work, please contact me via [dut_ljy@foxmail.com](dut_ljy@foxmail.com).
 
 
 # 🔥 News

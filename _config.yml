@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junyu Lu 卢俊宇"
-  avatar           : "images/cv.png"
+  avatar           : "cv.png"
   bio              : "A second-year Ph.D. student at Dalian University of Technology"
   location         : "Dalian, China"
   employer         :

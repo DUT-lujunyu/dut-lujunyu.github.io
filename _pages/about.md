@@ -24,7 +24,7 @@ Currently, I focus on detecting hate speech and hateful memes prevalent on socia
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Our two papers were accepted by ACL 2025 (2 findings)! 
 
 # 📝 Publications 
 
@@ -53,14 +53,14 @@ Currently, I focus on detecting hate speech and hateful memes prevalent on socia
 **Note**: The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=mMaIn0QAAAAJ&hl=zh-CN).
 
 # 📖 Educations
-- *2023.9 - now*, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-- *2021.9 - 2023.6*, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-- *2017.9 - 2021.6*, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2023.09 - now*, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2021.09 - 2023.06*, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2017.09 - 2021.06*, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
 
 
 # 💻 Internships
-- *2025.5 - Now*, [Tencent Hunyuan](https://www.tencent.com/), Beijing, China. Supervisor: Dr. [Deyi Ji](https://scholar.google.com/citations?hl=zh-CN&user=r9-7am4AAAAJ)
-- *2022.7 - 2022.12*, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China. Supervisor: Dr. [Xue Han](https://scholar.google.com/citations?hl=zh-CN&user=Rg4xqCgAAAAJ)
+- *2025.05 - Now*, [Tencent Hunyuan](https://www.tencent.com/), Beijing, China. Supervisor: Dr. [Deyi Ji](https://scholar.google.com/citations?hl=zh-CN&user=r9-7am4AAAAJ)
+- *2022.07 - 2022.12*, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China. Supervisor: Dr. [Xue Han](https://scholar.google.com/citations?hl=zh-CN&user=Rg4xqCgAAAAJ)
 
 
 # 💬 Invited Talks
@@ -78,10 +78,10 @@ Currently, I focus on detecting hate speech and hateful memes prevalent on socia
 
 # 🎖 Honors and Awards
 ## Technique Evaluation
-- 2024.7, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
-- 2024.7, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, _Chinese Information Processing Society of China_, **The 1st Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
-- 2022.5, NLPCC2022 Task5 Track1: Multi-label Classification Model for English Scientific Literature, _China Computer Federation_, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
-- 2020.9, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
+- 2024.07, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2024.07, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, _Chinese Information Processing Society of China_, **The 1st Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2022.05, NLPCC2022 Task5 Track1: Multi-label Classification Model for English Scientific Literature, _China Computer Federation_, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
+- 2020.09, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
 
 ## Other Awards
 - Tencent Rhino-Bird Elite Talent Program. Tencent. *2025*.

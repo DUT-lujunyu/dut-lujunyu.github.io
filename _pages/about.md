@@ -31,31 +31,53 @@ Currently, I focus on detecting hate speech and hateful memes prevalent on socia
 <!-- for example -->
 <!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Main Publications
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SIGIR 2025</span> Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection, **Junyu Lu**, Bo Xu, Xiaokun Zhang, Haohao Zhu, Kaichun Wang, Liang Yang, Hongfei Lin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 findings</span> [Is LLM an Overconfident Judge? Unveiling the Capabilities of LLMs in Detecting Offensive Language with Annotation Disagreement](https://arxiv.org/abs/2502.06207), **Junyu Lu**, Kai Ma, Kaichun Wang, Kelaiti Xiao, Roy Ka-Wei Lee, Bo Xu, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/Disagreement)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2024</span> [Towards Comprehensive Detection of Chinese Harmful Memes](https://arxiv.org/abs/2410.02378), **Junyu Lu**, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/ToxiCN_MM)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">COLING 2024</span> [Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect](https://aclanthology.org/2024.lrec-main.1353/), **Junyu Lu**, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/Debias)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2023</span> [Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks](https://aclanthology.org/2023.acl-long.898.pdf), **Junyu Lu**, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/ToxiCN)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">TASLP 2023</span> [Hate Speech Detection via Dual Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10180106), **Junyu Lu**, Hongfei Lin, Xiaokun Zhang, Zhaoqing Li, Tongyue Zhang, Linlin Zong, Fenglong Ma, Bo Xu. 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NLPCC 2022</span> [Multi-task Hierarchical Cross-Attention Network for Multi-label Text Classification](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13), **Junyu Lu**, Hao Zhang, Zhexu Shen, Kaiyuan Shi, Liang Yang, Bo Xu, Shaowu Zhang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/MHCAN)
+
+## Other Publications
+
+
+**Note**: The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=mMaIn0QAAAAJ&hl=zh-CN).
 
 # 📖 Educations
-- 2023.9 - now, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-- 2021.9 - 2023.6, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
-- 2017.9 - 2021.6, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2023.9 - now*, Ph.D. student, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2021.9 - 2023.6*, M.Sc. candidate, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+- *2017.9 - 2021.6*, B.Sc, School of Computer Science and Technology, [Dalian University of Technology](https://www.dlut.edu.cn).
+
+
+# 💻 Internships
+- *2025.5 - Now*, [Tencent Hunyuan](https://www.tencent.com/), Beijing, China. Supervisor: Dr. [Deyi Ji](https://scholar.google.com/citations?hl=zh-CN&user=r9-7am4AAAAJ)
+- *2022.7 - 2022.12*, [China Mobile Research Institution](http://cmri.chinamobile.com/), Beijing, China. Supervisor: Dr. [Xue Han](https://scholar.google.com/citations?hl=zh-CN&user=Rg4xqCgAAAAJ)
+
 
 # 💬 Invited Talks
 - *2024.11*, NeurIPS2024 Pre-Presentation Meeting. AI Time. [[news](https://mp.weixin.qq.com/s/pI64JxiMY_B1gQYp9h2jPw)][[video](https://www.bilibili.com/video/BV19hUUYdE2k)]
 - *2024.11*, **Academic Forum for Doctoral Students in 2024**. School of Computer Science and Technology, Dalian University of Technology. [[news](https://mp.weixin.qq.com/s/b_Pa7PUG_dxToUaF3EbgAQ)]
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
 # 🧑‍🔬 Services
-**Reviewer:** &nbsp; 
- Conference PC Member: ACL ARR (23 - Now), COLING (24), BIBM (24), ICASSP (25), NeurIPS (25)
+## Organizer  
+- [CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation.](https://tianchi.aliyun.com/competition/entrance/532298)
+ 
+## Reviewer
+- Conference PC Member: ACL ARR (23 - Now), COLING (24), BIBM (24), ICASSP (25), NeurIPS (25)
 - Journal Reviewer: TASLP, TALLIP
 
-**Organizer**:  
-- [CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation.](https://tianchi.aliyun.com/competition/entrance/532298)
 
 # 🎖 Honors and Awards
+## Technique Evaluation
+- 2024.7, CCAC2024 Task1 Track1: Few-shot User Query Security Detection, _Chinese Information Processing Society of China_, **The 2nd Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2024.7, CCAC2024 Task1 Track2: Few-shot User Model Response Detection, _Chinese Information Processing Society of China_, **The 1st Place** in 30+ Teams. [[task](https://github.com/rangwang/CCAC2024-FS_Moderation)]
+- 2022.5, NLPCC2022 Task5 Track1: Multi-label Classification Model for English Scientific Literature, _China Computer Federation_, **The 2nd Place** in 40+ Teams. [[task](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask5.Guideline.pdf)] [[report](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13)]
+- 2020.9, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
+
+## Other Awards
 - Tencent Rhino-Bird Elite Talent Program. Tencent. *2025*.
 - National Scholarship. The Ministry of Education of the People's Republic of China. *2023*.
 - Huawei Scholarship. Huawei Technologies Co., Ltd. & Dalian University of Technology. *2022*.

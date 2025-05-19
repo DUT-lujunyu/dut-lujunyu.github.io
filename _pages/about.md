@@ -43,6 +43,12 @@ Currently, I focus on detecting hate speech and hateful memes prevalent on socia
 
 ## Other Publications
 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 findings</span> [STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection](https://arxiv.org/html/2501.15451v2), Zewen Bai, Shengdi Yin, **Junyu Lu**, Jingjie Zeng, Haohao Zhu, Yuanyuan Sun, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NAACL 2025</span> [Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition](https://aclanthology.org/2025.naacl-long.385/), Haohao Zhu, **Junyu Lu**, Xiaokun Zhang, Zeyuan Zeng, Zewen Bai, Liang Yang, Hongfei Lin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector](https://arxiv.org/abs/2409.05005), Hongbo Wang, **Junyu Lu**, Yan Han, Kai Ma, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/dut-laowang/PCLMM)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EMNLP 2024 findings</span> [PclGPT: A Large Language Model for Patronizing and Condescending Language Detection](https://arxiv.org/abs/2409.05005), Hongbo Wang, Mingda Li, **Junyu Lu**, Hebin Xia, Liang Yang, Bo Xu, Ruizhu Liu, Hongfei Lin. [[Repo]](https://github.com/dut-laowang/emnlp24-PclGPT)
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">BIBM 2024</span> [CFAH: A Chinese Dataset for Detecting False Advertising in Healthcare](https://arxiv.org/abs/2409.05005), Weiru Fu, **Junyu Lu**, Youlin Wu, Guangtao Xu, Liang Yang, Hongfei Lin, Jian Wang. [[Repo]](https://github.com/FuWeiru/CFAH)
+
 
 **Note**: The full list of publications is in [Google Scholar](https://scholar.google.com/citations?user=mMaIn0QAAAAJ&hl=zh-CN).
 

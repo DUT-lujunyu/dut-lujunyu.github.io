@@ -21,7 +21,7 @@ redirect_from:
 I am currently a second-year Ph.D. student at the School of Computer Science and Technology, Dalian University of Technology, supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ). 
 My research interests lie in natural language processing, text mining, and AI security. 
 I am particularly interested in detecting hate speech and hateful memes prevalent on social platforms by developing novel deep learning methods, specifically large language models, for semantic analysis.
-I also have an amazing opportunity to work with [Prof. Roy Ka-Wei Lee](https://scholar.google.com/citations?user=uQxdOlsAAAAJ) at Singapore University of Technology and Design.
+I also have a fortunate opportunity to work with [Prof. Roy Ka-Wei Lee](https://scholar.google.com/citations?user=uQxdOlsAAAAJ) at Singapore University of Technology and Design.
 
 If you are interested in my work, please contact me via [dut_ljy@foxmail.com](dut_ljy@foxmail.com).
 

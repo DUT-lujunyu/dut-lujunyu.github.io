@@ -63,5 +63,11 @@ Currently, I focus on detecting hate speech and hateful memes prevalent on socia
 - First Prize Scholarship for Postgraduate. Dalian University of Technology. *2022-2023*.
 - Excellent Postgraduate. Dalian University of Technology. *2022-2023*.
 
-# 👀 Visitors
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script>
+# Visitors
+<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script> -->
+
+<div style="text-align: center;">
+    <a href="https://clustrmaps.com/site/1c273" title="Visit tracker">
+        <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY" style="max-width: 50%;" />
+    </a>
+</div>

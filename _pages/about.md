@@ -99,6 +99,6 @@ If you are interested in my work, please contact me via [dut_ljy@foxmail.com](du
 
 <div style="text-align: center;">
     <a href="https://clustrmaps.com/site/1c273" title="Visit tracker">
-        <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY" style="max-width: 50%;" />
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY""></script>
     </a>
 </div>

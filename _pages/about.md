@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a second-year Ph.D. student at the School of Computer Science and Technology, Dalian University of Technology, supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ). 
+I am currently a third-year Ph.D. student at the School of Computer Science and Technology, Dalian University of Technology, supervised by [Prof. Hongfei Lin](https://scholar.google.com/citations?hl=zh-CN&user=kV68br0AAAAJ). 
 My research interests lie in natural language processing, text mining, and AI security. 
 I am particularly interested in detecting hate speech and hateful memes prevalent on social platforms by developing novel deep learning methods, specifically large language models, for semantic analysis.
 I also have a fortunate opportunity to work with [Prof. Roy Ka-Wei Lee](https://scholar.google.com/citations?user=uQxdOlsAAAAJ) at Singapore University of Technology and Design.
@@ -27,7 +27,7 @@ If you are interested in my work, please contact me via [dut_ljy@foxmail.com](du
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our two papers were accepted by ACL 2025 (2 findings)! 
+- *2026.04*: &nbsp;🎉🎉 Our one paper was accepted by SIGIR 2026! 
 
 # 📝 Publications 
 
@@ -35,8 +35,8 @@ If you are interested in my work, please contact me via [dut_ljy@foxmail.com](du
 <!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
 
 ## Main Publications
-
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SIGIR 2025</span> Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection, **Junyu Lu**, Bo Xu, Xiaokun Zhang, Haohao Zhu, Kaichun Wang, Liang Yang, Hongfei Lin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SIGIR 2026</span> Decoding Multimodal Cues: Unveiling the Implicit Meaning Behind Hateful Videos, **Junyu Lu**, Deyi Ji, Liqun Liu, Xiaokun Zhang, Youlin Wu, Roy Ka-Wei Lee, Peng Shu, Huan Yu, Jie Jiang, Bo Xu, Liang Yang, Hongfei Lin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">SIGIR 2025</span> [Is Having Rationales Enough? Rethinking Knowledge Enhancement for Multimodal Hateful Meme Detection](https://dl.acm.org/doi/abs/10.1145/3726302.3730014), **Junyu Lu**, Bo Xu, Xiaokun Zhang, Haohao Zhu, Kaichun Wang, Liang Yang, Hongfei Lin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 findings</span> [Is LLM an Overconfident Judge? Unveiling the Capabilities of LLMs in Detecting Offensive Language with Annotation Disagreement](https://arxiv.org/abs/2502.06207), **Junyu Lu**, Kai Ma, Kaichun Wang, Kelaiti Xiao, Roy Ka-Wei Lee, Bo Xu, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/Disagreement)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NeurIPS 2024</span> [Towards Comprehensive Detection of Chinese Harmful Memes](https://arxiv.org/abs/2410.02378), **Junyu Lu**, Bo Xu, Xiaokun Zhang, Hongbo Wang, Haohao Zhu, Dongyu Zhang, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/ToxiCN_MM)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">COLING 2024</span> [Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect](https://aclanthology.org/2024.lrec-main.1353/), **Junyu Lu**, Bo Xu, Xiaokun Zhang, Kaiyuan Liu, Dongyu Zhang, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/Debias)
@@ -45,7 +45,7 @@ If you are interested in my work, please contact me via [dut_ljy@foxmail.com](du
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NLPCC 2022</span> [Multi-task Hierarchical Cross-Attention Network for Multi-label Text Classification](https://link.springer.com/chapter/10.1007/978-3-031-17189-5_13), **Junyu Lu**, Hao Zhang, Zhexu Shen, Kaiyuan Shi, Liang Yang, Bo Xu, Shaowu Zhang, Hongfei Lin. [[Repo]](https://github.com/DUT-lujunyu/MHCAN)
 
 ## Other Publications
-
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">AAAI 2026</span> [Multi-Agent VLMs Guided Self-Training with PNU Loss for Low-Resource Offensive Content Detection](https://ojs.aaai.org/index.php/AAAI/article/view/41288), Han Wang, Deyi Ji, **Junyu Lu**, Lanyun Zhu, Hailong Zhang, Haiyang Wu, Liqun Liu, Peng Shu, Roy Ka-Wei Lee. [[Repo]](https://github.com/Social-AI-Studio/MA-VLM)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025 findings</span> [STATE ToxiCN: A Benchmark for Span-level Target-Aware Toxicity Extraction in Chinese Hate Speech Detection](https://arxiv.org/html/2501.15451v2), Zewen Bai, Shengdi Yin, **Junyu Lu**, Jingjie Zeng, Haohao Zhu, Yuanyuan Sun, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">NAACL 2025</span> [Commonality and Individuality! Integrating Humor Commonality with Speaker Individuality for Humor Recognition](https://aclanthology.org/2025.naacl-long.385/), Haohao Zhu, **Junyu Lu**, Xiaokun Zhang, Zeyuan Zeng, Zewen Bai, Liang Yang, Hongfei Lin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector](https://arxiv.org/abs/2409.05005), Hongbo Wang, **Junyu Lu**, Yan Han, Kai Ma, Liang Yang, Hongfei Lin. [[Repo]](https://github.com/dut-laowang/PCLMM)
@@ -75,8 +75,8 @@ If you are interested in my work, please contact me via [dut_ljy@foxmail.com](du
 - [CCL25-Eval Task 10: Fine-grained Chinese Hate Speech Detection Evaluation.](https://tianchi.aliyun.com/competition/entrance/532298)
  
 ## Reviewer
-- Conference PC Member: ACL ARR (23 - Now), COLING (24), BIBM (24), ICASSP (25), NeurIPS (25)
-- Journal Reviewer: TASLP, TALLIP
+- Conference PC Member: NeurIPS, WWW, SIGIR, ACL ARR, COLING, BIBM, ICASSP, 
+- Journal Reviewer: TASLP, TKDD, TALLIP, ESWA, KBS
 
 
 # 🎖 Honors and Awards
@@ -87,12 +87,11 @@ If you are interested in my work, please contact me via [dut_ljy@foxmail.com](du
 - 2020.09, CCF-BDCI2020: E-commerce User Purchasing Behavior Prediction, _China Computer Federation_, **The 5th Place** in 120+ Teams. [[task](https://www.datafountain.cn/competitions/448)]
 
 ## Other Awards
+- Doctoral Student Special Program of the Youth Scientific and Technological Talent Cultivation Project. China Association for Science and Technology (CAST). *2025*.
 - Tencent Rhino-Bird Elite Talent Program. Tencent. *2025*.
-- National Scholarship. The Ministry of Education of the People's Republic of China. *2023*.
+- National Scholarship. The Ministry of Education of the People's Republic of China. *2023, 2025*.
 - Huawei Scholarship. Huawei Technologies Co., Ltd. & Dalian University of Technology. *2022*.
-- Xianglian Scholarship. Dalian University of Technology. *2024*.
-- First Prize Scholarship for Postgraduate. Dalian University of Technology. *2022-2023*.
-- Excellent Postgraduate. Dalian University of Technology. *2022-2023*.
+- First Prize Scholarship for Postgraduate. Dalian University of Technology. *2022-2025*.
 
 # Visitors
 <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=0ZVhiD0S7RJSzhyvpjJf3J71bQ62KTj9lerWE1VBMsY"></script> -->
